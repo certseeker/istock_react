@@ -1,3 +1,5 @@
+Notes as of July 19th 3am:
+
 Here are some cool things I have learned during the React Fashion Blog Project
 
 1. Navigation Bar and Link
@@ -19,6 +21,15 @@ https://www.youtube.com/watch?v=SLfhMt5OUPI
 2. Images
 Here is a great resource on images, the breakdown of types
 Explains how while you can put images directly in a public file, it does not preform as well if directly inserted
-Also, when you insert an image into a file, ti gets added to the public file anyways.
+Also, when you insert an image into a file, it gets added to the public file anyways.
 
 https://www.youtube.com/watch?v=18RdrMyTwY8
+
+Where I have left off:
+I am having issues with page redirection. Although it seems like it is not needed forthe assignment, I am curious 
+about accomplishing this, since we will have to learn it eventually anyways. The hyperlink at the top actually changes. 
+So it may actully be my html or another element of my pages other than how I actually redirected it that is the issue. 
+
+The next thing I want to start working after that, is inserting my photos. I can either do inline text with curly brackets and 
+insert the image, or I can create a seperate component. I can put the images in an array or just directly insert the images. While this
+is definately more work up front, if i plan on reusuing this site, it would potentially be more effecient 
