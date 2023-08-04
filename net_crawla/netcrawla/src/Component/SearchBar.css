@@ -1,0 +1,28 @@
+.input-wrapper{
+  background-color: azure;
+  width: 100%;
+  border-radius: 10px;
+  height: 2.5rem;
+  padding: 0 15px;
+  box-shadow: 0px 0px 8px #c46d6d;
+  display: flex;
+  align-items: center;
+}
+
+input {
+  background-color: none;
+  border: none;
+  height: 100%;
+  font-size: 1.25rem;
+  width: 100%;
+  margin-left: 5px;
+}
+
+/* this removes hightlighting the search bar with default bule when hovering  */
+input:focus {
+  outline: none
+}
+
+#search-icon {
+  color: gold;
+}
